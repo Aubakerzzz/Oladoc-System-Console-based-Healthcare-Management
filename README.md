@@ -7,3 +7,4 @@
     scheduling appointments, managing doctor availability, and accessing patient information. The system's user-friendly interface and
     intuitive design enhance the overall user experience, making it a valuable tool for healthcare professionals and patients alike.
   </p>
+  <img src="i211379_H.png">
