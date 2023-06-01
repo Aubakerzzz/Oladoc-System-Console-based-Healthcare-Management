@@ -1,0 +1,3 @@
+Doctor,Male,3/5/22,22-65-365,Islamabad,asd123,asd@12qwe,0300-2562456,abubakerajazz@gmail.com,House21/Street 325/G,Gynecologist,4.2,1500,yes
+abubaker,male,2,2520652563566,islamabad,asd,asdASD~~~,03002356,abubakerajazz@gmail.com,g11,Gynecologist,4,1500,yes
+Dr.Hamza,Male,12/05/2022,0123456789123,Islamabad,temp,Temp@123,0300-1234567,temp@gmail.com,51-02-G-11,Dermatologist,4,1600,yes

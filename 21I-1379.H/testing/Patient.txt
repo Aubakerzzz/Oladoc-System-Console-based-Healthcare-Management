@@ -1,0 +1,4 @@
+patientName,Male,2/2/2022,56-65-3594,Islamabad,patient123,patient@123,0300-2516366,patient@gmail.com,3/26/2356,3500
+kashif,male,112/5/2000,1234567891234,islamabad,test,Test@123,123,temp@gmail.com,abcd,3500
+abubaker,Male,2/4/2003,1234567891011,islamabad,abubaker123,asdASD~123,31,abubakerajazz@gmail.com,house,3500
+abubaker,male,2/3/2003,01234567891011,islamabad,abubaker123,asdASD~123,51,abubakerajazz@gmail.com,house,3500
